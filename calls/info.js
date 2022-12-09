@@ -11,7 +11,7 @@ module.exports = {
 		let bar = queue.createProgressBar({
 			queue: false,
 			length: 19,
-		})
+	})
 
         const song = queue.current
 
